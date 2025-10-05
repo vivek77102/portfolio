@@ -1,0 +1,12 @@
+:root {
+  --textcolor: #f6fbe9;           /* Light olive for main text */
+  --paracolor: #c9e4b4;           /* Soft pale green for paragraphs */
+  --bordercolor: #869666;         /* Olive-gray for borders */
+  --secondarycolor: #37412d;      /* Deep olive for containers/cards */
+  --headercolor: #647434;         /* Pale yellow-green for headings */
+  --backgroundcolor: #7f976c;     /* Very dark olive for page background */
+  --maincolor: #becf89;           /* Bright olive for buttons/accents */
+  --dark: #556b2f;                /* Dark olive for hover/active */
+  --themebordercolor: #6b7a4d;    /* Muted olive for theme borders */
+  --prevewshadow: #2e3b1f;        /* Olive shadow for cards/previews */
+}

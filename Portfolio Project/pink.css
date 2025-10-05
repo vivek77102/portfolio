@@ -1,0 +1,13 @@
+
+  :root {
+  --textcolor: #3d1a2b;              /* Deep plum for main text */
+  --paracolor: #7c3f58;              /* Muted rose for paragraphs */
+  --bordercolor: #f7cad0;            /* Soft blush for borders */
+  --secondarycolor: #bd97a0;         /* Lightest pink for containers/cards */
+  --headercolor: #d72660;            /* Bold raspberry for headings */
+  --backgroundcolor: #b88395;        /* Very pale pink for page background */
+  --maincolor: #9b616d;              /* Pastel pink for buttons/accents */
+  --dark: #ad1457;                   /* Deep pink for hover/active */
+  --themebordercolor: #f8bbd0;       /* Muted border for themes */
+  --prevewshadow: #f3b6c4;           /* Soft shadow for cards/previews */
+}

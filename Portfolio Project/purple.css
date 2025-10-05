@@ -1,0 +1,12 @@
+:root {
+  --textcolor: #f3eafd;              /* Light lavender for main text */
+  --paracolor: #e0c3fc;              /* Soft purple for paragraphs */
+  --bordercolor: #7c3aed;            /* Vibrant purple for borders */
+  --secondarycolor: #2d133b;         /* Deep purple for backgrounds */
+  --headercolor: #c084fc;            /* Bright purple for headings */
+  --backgroundcolor: #1a1023;        /* Very dark purple background */
+  --maincolor: #9e8eb1;              /* Main accent purple */
+  --dark: #3d1a5a;                   /* Even darker purple for hover/active */
+  --themebordercolor: #7c3aed;       /* Muted border for themes */
+  --prevewshadow: #3d1a5a;           /* Soft shadow for cards/previews */
+}

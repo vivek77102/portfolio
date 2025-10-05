@@ -1,0 +1,12 @@
+:root {
+  --textcolor: #222831;              /* Deep gray for main text */
+  --paracolor: #393e46;              /* Slightly lighter for paragraphs */
+  --bordercolor: #bdbdbd;            /* Soft gray for borders */
+  --secondarycolor: #bad1e7;         /* Very light gray for backgrounds */
+  --headercolor: #3a86ff;            /* Professional blue for headings */
+  --backgroundcolor: #f1f3f6;        /* Subtle background */
+  --maincolor: #3a86ff;              /* Main accent blue */
+  --dark: #26406d;                   /* Darker blue for hover/active */
+  --themebordercolor: #748799;       /* Muted border for themes */
+  --prevewshadow: #e0e7ef;           /* Soft shadow for cards/previews */
+}
